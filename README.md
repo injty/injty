@@ -4,12 +4,6 @@
   </a>
   <br />
   <br />
-  
-  [DOTFILES-PUBLIC](https://github.com/nijatibrahimov/dotfiles-public)
-  <br />
-  [NORA THEME](https://github.com/nijatibrahimov/nora-theme)
-  <br />
-  <br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat-square&logo=gnu" /></a>
 	<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/DISTRO-Fedora-52a2da?style=flat-square&logo=fedora" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat-square&logo=neovim" /></a>
