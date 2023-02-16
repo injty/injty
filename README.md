@@ -5,7 +5,7 @@
   <br />
   <br />
   
-  [DOTFILES-PUBLIC](https://github.com/nijatibrahimov/nora-theme)
+  [DOTFILES-PUBLIC](https://github.com/nijatibrahimov/dotfiles-public)
   <br />
   [NORA THEME](https://github.com/nijatibrahimov/nora-theme)
   <br />
